@@ -1,0 +1,223 @@
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe.config
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.AssemblyReference.cache
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox.resources
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox2.resources
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Security.resources
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.User_Page.resources
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.GenerateResource.cache
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CoreCompileInputs.cache
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.pdb
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.pdb
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe.config
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.pdb
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.AssemblyReference.cache
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox2.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Security.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.User_Page.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.GenerateResource.cache
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CoreCompileInputs.cache
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.pdb
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Admin_Page.resources
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe.licenses
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CopyComplete
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.Licensing.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Admin_Page.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe.licenses
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CopyComplete
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Guna.UI.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Guna.UI2.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Guna.UI.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Guna.UI2.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe.config
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.pdb
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Guna.UI.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Guna.UI2.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.AssemblyReference.cache
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Admin_Page.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox2.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Security.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.User_Page.resources
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.GenerateResource.cache
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe.licenses
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CoreCompileInputs.cache
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CopyComplete
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.pdb
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Files\Programming\Visual Studio\practice\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe.config
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.exe
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Book_Shop.pdb
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Guna.UI.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Guna.UI2.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.AssemblyReference.cache
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Admin_Page.resources
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox.resources
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox2.resources
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Security.resources
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.User_Page.resources
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.GenerateResource.cache
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe.licenses
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CoreCompileInputs.cache
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CopyComplete
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.exe
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\obj\Debug\Book_Shop.pdb
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\CreditCardValidator.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\CreditCardValidator.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Buffers.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Memory.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Numerics.Vectors.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Text.Encodings.Web.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Text.Json.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.ValueTuple.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\zxing.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\zxing.presentation.dll
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Buffers.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Memory.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Numerics.Vectors.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Text.Encodings.Web.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Text.Json.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.ValueTuple.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\zxing.xml
+E:\Files\Programming\Visual Studio\Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\zxing.presentation.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Buffers.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Memory.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Text.Json.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.ValueTuple.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\zxing.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\zxing.presentation.dll
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Buffers.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Memory.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Text.Json.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\System.ValueTuple.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\zxing.xml
+C:\Users\C4rbo\Desktop\Files\Programming\OOP Final Project\Final Project Trial 2\Book_Shop\Book_Shop\bin\Debug\zxing.presentation.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Book_Shop.exe.config
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Book_Shop.exe
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Book_Shop.pdb
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\CreditCardValidator.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Guna.UI.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Guna.UI2.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Buffers.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Memory.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Numerics.Vectors.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Text.Encodings.Web.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Text.Json.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.ValueTuple.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\zxing.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\zxing.presentation.dll
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Buffers.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Memory.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Numerics.Vectors.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Text.Encodings.Web.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Text.Json.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\System.ValueTuple.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\zxing.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\bin\Debug\zxing.presentation.xml
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.csproj.AssemblyReference.cache
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.Admin_Page.resources
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox.resources
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.C4_TextBox2.resources
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.Security.resources
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.Properties.Resources.resources
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.User_Page.resources
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.csproj.GenerateResource.cache
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.exe.licenses
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CoreCompileInputs.cache
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.csproj.CopyComplete
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.exe
+E:\Files\Programming\Visual Studio\Final Project\Book Shop\Book_Shop\obj\Debug\Book_Shop.pdb
